@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 - 💀 I’m currently learning everything :)
  
-<img align="center" alt="mha66's Github Stats" src="https://github-readme-stats.vercel.app/api?username=mha66&show_icons=true&hide_border=true&count_private=true&bg_color=35,0b0c12,0e1535&title_color=969696&text_color=fff&icon_color=fff" />
+<img align="center" alt="mha66's Github Stats" src="https://github-readme-stats.vercel.app/api?username=mha66&show_icons=true&hide_border=true&count_private=true&bg_color=35,0b0c12,666666&title_color=969696&text_color=fff&icon_color=fff" />
 
 <hr>
 
@@ -35,4 +35,4 @@ Here are some ideas to get you started:
 
 </p>
 
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=mha66&show_icons=true&bg_color=35,0b0c12,0e1535&&color=0e75b6&title_color=969696&text_color=fff&count_private=true&hide_border=true&locale=en&layout=donut" alt="mha66" /></p>
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=mha66&show_icons=true&bg_color=35,0b0c12,666666&&color=0e75b6&title_color=969696&text_color=fff&count_private=true&hide_border=true&locale=en&layout=donut" alt="mha66" /></p>
