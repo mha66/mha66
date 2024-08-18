@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 <hr>
 
-* ### 📚 Programming Languages and tools
+### 📚 Programming Languages and tools
 
 <p>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40" title="Git"/> 
