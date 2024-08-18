@@ -12,18 +12,22 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
 <h1 align="center">Hello 👀, I'm Mohamed Hisham</h1>
 <div align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&pause=1000&color=969696&center=true&vCenter=true&random=true&width=435&lines=Computer+Engineer;" alt="Typing SVG" /></a></div>
 
-- 💀 I’m currently learning everything :)
- 
+<p align="center">
+- 💀 I’m currently learning everything :) 
+<br/><br/>
 <img align="center" alt="mha66's Github Stats" src="https://github-readme-stats.vercel.app/api?username=mha66&show_icons=true&hide_border=true&count_private=true&bg_color=35,0b0c12,666666&title_color=969696&text_color=fff&icon_color=fff" />
+</p>
 
 <hr>
 
-### 📓 Programming Languages and tools
+<h2 align="center" style="padding-bottom:.3em;font-size:1.5em;"> 📓 Programming Languages and tools </h2>
 
-<p>
+<p align="center">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40" title="C"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40" title="C#"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40" title="Java"/> 
@@ -35,4 +39,4 @@ Here are some ideas to get you started:
 
 </p>
 
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=mha66&show_icons=true&bg_color=35,0b0c12,666666&&color=0e75b6&title_color=969696&text_color=fff&count_private=true&hide_border=true&locale=en&layout=donut" alt="mha66" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=mha66&show_icons=true&bg_color=35,0b0c12,666666&&color=0e75b6&title_color=969696&text_color=fff&count_private=true&hide_border=true&locale=en&layout=donut" alt="mha66" /></p>
