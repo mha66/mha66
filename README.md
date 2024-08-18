@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 <h1 align="center">Hello, I'm Mohamed Hisham</h1>
 <div align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&pause=1000&color=969696&center=true&vCenter=true&random=true&width=435&lines=Computer+Engineer;" alt="Typing SVG" /></a></div>
 
-- 🌱 I’m currently learning everything :)
+- 💀 I’m currently learning everything :)
  
 <img align="center" alt="mha66's Github Stats" src="https://github-readme-stats.vercel.app/api?username=mha66&show_icons=true&hide_border=true&count_private=true&bg_color=35,0b0c12,0e1535&title_color=969696&text_color=fff&icon_color=fff" />
 
