@@ -23,7 +23,6 @@ Here are some ideas to get you started:
 <img align="center" alt="mha66's Github Stats" src="https://github-readme-stats.vercel.app/api?username=mha66&show_icons=true&hide_border=true&count_private=true&bg_color=35,0b0c12,666666&title_color=969696&text_color=fff&icon_color=fff" />
 </p>
 
-<hr>
 
 <h2 align="center" style="padding-bottom:.3em;font-size:1.5em;"> 📓 Programming Languages and tools </h2>
 
