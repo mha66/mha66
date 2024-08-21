@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=shark&height=100&color=666666&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=shark&height=100&color=666666&section=header" alt="Header"/>
 <h1 align="center">Hello 👀, I'm Mohamed Hisham</h1>
 <div align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&pause=1000&color=969696&center=true&vCenter=true&random=true&width=435&lines=Computer+Engineer;" alt="Typing SVG" /></a></div>
 
@@ -40,4 +40,4 @@ Here are some ideas to get you started:
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=mha66&show_icons=true&bg_color=35,0b0c12,666666&&color=0e75b6&title_color=969696&text_color=fff&count_private=true&hide_border=true&locale=en&layout=donut" alt="mha66" /></p>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=shark&height=100&color=666666&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=shark&height=100&color=666666&section=footer" alt="Footer"/>
