@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=shark&height=100&color=666666&section=header" alt="Header"/>
-<h1 align="center">Hello <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmxkbDF1bDV2aDFxZjJncjhuYmRlN3lrMDlzNTh3eGU3azI0cDQydiZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/FkdU6Or6txxpPdOsL8/giphy.gif" width="40px"/>, I'm Mohamed Hisham</h1>
+<h1 align="center">Hello <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmxkbDF1bDV2aDFxZjJncjhuYmRlN3lrMDlzNTh3eGU3azI0cDQydiZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/FkdU6Or6txxpPdOsL8/giphy.gif" width="35px" height="30px"/>, I'm Mohamed Hisham</h1>
 <div align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&pause=1000&color=969696&center=true&vCenter=true&random=true&width=435&lines=Computer+Engineer;" alt="Typing SVG" /></a></div>
 
 <p align="center">
@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 </p>
 
 
-<h2 align="center" style="padding-bottom:.3em;font-size:1.5em;"> <img src="https://media.giphy.com/media/0mUTv7Yu0TFn0SGSN2/giphy.gif" width="35px"/> Programming Languages and tools </h2>
+<h2 align="center" style="padding-bottom:.3em;font-size:1.5em;"> <img src="https://media.giphy.com/media/0mUTv7Yu0TFn0SGSN2/giphy.gif" width="30px" height="30px"/> Programming Languages and tools </h2>
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40" title="C"/>
