@@ -23,7 +23,12 @@ Here are some ideas to get you started:
 <img align="center" alt="mha66's Github Stats" src="https://github-readme-stats.vercel.app/api?username=mha66&show_icons=true&hide_border=true&count_private=true&bg_color=35,0b0c12,666666&title_color=969696&text_color=fff&icon_color=fff" />
 </p>
 
-
+<h2 align="center" style="padding-bottom:.3em;font-size:1.5em;"> <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="46px" height="20"> Socials </h2>
+<p align="center">
+<a href="https://www.linkedin.com/in/mohamed-hisham-414041329/">
+<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=000000" width="150" />
+</a>
+</p>
 <h2 align="center" style="padding-bottom:.3em;font-size:1.5em;"> <img src="https://media.giphy.com/media/0mUTv7Yu0TFn0SGSN2/giphy.gif" width="30px" height="30px"/> Programming Languages and tools </h2>
 
 <p align="center">
