@@ -45,4 +45,10 @@ Here are some ideas to get you started:
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=mha66&show_icons=true&bg_color=35,0b0c12,666666&&color=0e75b6&title_color=969696&text_color=fff&count_private=true&hide_border=true&locale=en&layout=donut" alt="mha66" /></p>
 
+<a href="https://github.com/mha66">
+  <img alt="Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=mha66&theme=github-dark-dimmed&radius=8&area=true"/>
+</a>
+
+<br/><br/>
+
 <img width=100% src="https://capsule-render.vercel.app/api?type=shark&height=100&color=666666&section=footer" alt="Footer"/>
